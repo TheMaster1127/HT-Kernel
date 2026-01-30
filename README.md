@@ -1,9 +1,3 @@
-Got it. Now I understand exactly what you want: you want users to know **how to switch the example** that `build.sh` builds (e.g., `main_draw.s` → `main_hello_world.s`), and you want the **HTLL repository linked early** so people know where the assembly is coming from. I’ll rewrite the README section for clarity and accuracy.
-
-Here’s the updated README:
-
----
-
 # HT-Kernel
 
 HT-Kernel is a **minimal x86‑64 kernel written in FASM assembly** that allows **HTLL‑generated code to run directly in ring 0**.
