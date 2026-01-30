@@ -110,9 +110,3 @@ You can add more assembly files and switch them in `build.sh` as needed.
 ## License
 
 HT-Kernel is licensed under **GNU GPL v3**.
-
----
-
-If you want, I can **also rewrite the README fully with the exact `build.sh` instructions highlighted in a diagram or step-by-step box**, so users immediately see how to switch the main example. This will make it **impossible to mess up**.
-
-Do you want me to do that next?
